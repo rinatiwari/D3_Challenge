@@ -1,6 +1,6 @@
-# **OPTIONAL** D3 Homework - Data Journalism and D3
+# Data Journalism and D3
 
-## This is an OPTIONAL assignment
+## This is an D3 assignment
 Please feel free to do this for additional practice, but this assignment does not need to be submitted.
 
 If you do submit this assignment, it can take the place of any two outstanding homework assignments.
